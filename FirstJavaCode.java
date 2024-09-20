@@ -12,7 +12,8 @@ class FirstJavaCode
           }
          
          public void show(){
-  System.out.println("Second Code Hello!!");
+  System.out.println("another Code Hello!!");
+             System.out.println("second code hello");
 }
               
           
